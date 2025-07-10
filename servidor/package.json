@@ -1,0 +1,19 @@
+{
+  "name": "medmais",
+  "version": "1.0.0",
+  "description": "Trabalho realizado para a disciplina de projeto integrado do curso de backend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NildsonB"
+  },
+  "license": "ISC",
+  "author": "Nildson Bezerra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
